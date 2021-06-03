@@ -1,5 +1,3 @@
-# ABD_prediction
-
 *******************************************************
 **Predicting Brain Function Status Changes in Critically Ill Patients**
 *******************************************************
