@@ -25,4 +25,4 @@
 <br />
 <br />
 
-This method utilizes Light Gradient Boosting Machine (**LightGBM**) to predict the daily status changes of acute brain dysfunction.
+This method utilizes Light Gradient Boosting Machine (**LightGBM**) to predict the daily status changes of acute brain dysfunction for critically ill patients.
